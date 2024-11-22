@@ -152,11 +152,11 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/4593c3bc-e613-41cb-818b-4b7177780a60)
+![image](https://github.com/user-attachments/assets/88750be2-8346-49ad-a179-d3f0057be028)
+![image](https://github.com/user-attachments/assets/eb53c075-ab07-4a69-a378-13dc3b32bad2)
 
-![image](https://github.com/user-attachments/assets/629762ca-91ca-42a4-861c-79d9129984f6)
+![image](https://github.com/user-attachments/assets/bc3811ad-5fc0-4e41-be78-7bf73deb16db)
 
-![image](https://github.com/user-attachments/assets/be39ed4d-cffe-4f87-b3e4-7f3a190a9152)
 
 
 
